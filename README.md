@@ -5,9 +5,11 @@ I made a Game that will run in every Browser and it cant be blocked by your Scho
 
 Instalation:
 ---------------------------------------------------------------------------------------------------------------------------------------
-1. Download the Source code zip and Extract it
+1. Download .zip and Extract it
 2. launch index.html
 3. Have Fun!!
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 The game is Open source so feel free to custimize it how you like
+
+If you have found bugs or just have Feedback Contact me on Discord  : adrhei0572
