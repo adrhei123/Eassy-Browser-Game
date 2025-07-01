@@ -1,7 +1,7 @@
 # Eassy-Browser-Game
 This is a browser game using HTML, CSS and JasvaScript
 
-I made a Game that will run in every Browser and it cant be blocked by your Scholl or Organisation
+I made a Game that will run in every Browser and it cant be blocked by your School or Organisation
 
 Instalation:
 ---------------------------------------------------------------------------------------------------------------------------------------
